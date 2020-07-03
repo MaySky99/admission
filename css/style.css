@@ -1,0 +1,40 @@
+.navbar-nav li a{
+    color:black;
+    font-size: 18px;
+}
+.progress-bar{
+    background-color: rgb(58, 41, 58);
+}
+.bottom{
+    border-bottom: 1px solid gray;
+}
+.btn{
+    background-color: rgb(58, 41, 58);
+    color: white;
+}
+.help-inline{
+    color:red;
+}
+.error{
+    color:red;
+    font-size:25px;
+}
+.father_status_error, .mother_status_error, .other_status_error{
+    color:red;
+    font-size:25px;
+}
+.form-control{
+    box-shadow:1px 1px 0.5px 0.5px rgba(58, 41, 58, 0.7);
+    width:250px;
+}
+.age-form-control{
+    box-shadow:1px 1px 0.5px 0.5px rgba(58, 41, 58, 0.7);
+    padding:5px;
+    border:0.5px solid rgba(58, 41, 58, 0.3);
+    border-radius:5px;
+    width:100px;
+}
+.form-label{
+    color:rgb(59, 19, 59);
+    font-size:18px;
+}
